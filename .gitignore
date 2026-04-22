@@ -1,0 +1,20 @@
+# Datasets (large files not suitable for GitHub/Deployment)
+datasets/credits.csv
+datasets/movies_metadata.csv
+ratings.csv
+ratings_small.csv
+keywords.csv
+links.csv
+links_small.csv
+*.ipynb
+
+# Python and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
